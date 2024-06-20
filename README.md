@@ -22,7 +22,7 @@ We collected data from kaggle and roboflow platforms. This dataset consists of 7
 ![train](Train.png)
 
 We use early stop and learning rate to prevent model overfitting.
-The model achieved a training accuracy of 91.54 and validation accuracy of 93.13%.
+The model achieved a training accuracy of 91.54% and validation accuracy of 93.13%.
 
 
 Here is a plot of Train vs Val Loss and Train vs Val Accuracy.
